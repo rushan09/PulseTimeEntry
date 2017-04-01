@@ -4,11 +4,11 @@
 
 3.edit following variable as appropriate
 
-	USERNAME := "----@mitrai.com"
+	USERNAME := "----@---.com"
 	PASSWORD := "----"
 	HOURS	 := "9"
 	SUMMERY  := ""
-	URL	 := "http://pulse.mitrai.net/public/index.php?path_info=projects%2F-----------%2Ftracking"
+	URL	 := "http://pulse.-----.net/public/index.php?path_info=projects%2F-----------%2Ftracking"
    URL should be the link to the "time and Expenses" tab under your project name in pulse
 
 4.save it and close the file
